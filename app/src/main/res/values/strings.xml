@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">AIOPA</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="make_an_order">Make an order</string>
+    <string name="dialog_title">Tick what you ate today! (Calories)</string>
+    <string name="ok_label">OK</string>
+    <string name="dismiss_label">Dismiss</string>
+    <string name="clear_all_label">Clear all</string>
+
+    <string-array name="shopping_item">
+        <item>Onion (40 cals)</item>
+        <item>Sausage (301 cals)</item>
+        <item>Milk (42 cals)</item>
+        <item>Garlic(30 cals)</item>
+        <item>Beef(30 cals)</item>
+        <item>Veggies(30 cals)</item>
+        <item>Olive(30 cals)</item>
+        <item>Cheese(30 cals)</item>
+        <item>Tuna(30 cals)</item>
+        <item>Orange(30 cals)</item>
+        <item>Peas(30 cals)</item>
+        <item>Broccoli(30 cals)</item>
+        <item>Capsicum(30 cals)</item>
+        <item>Coconut(30 cals)</item>
+    </string-array>
+</resources>
